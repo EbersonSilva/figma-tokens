@@ -1,11 +1,15 @@
 /**
  * Do not edit directly
- * Generated on Thu, 20 Oct 2022 01:35:16 GMT
+ * Generated on Thu, 20 Oct 2022 02:27:58 GMT
  */
 
 :root {
+  --sizes-2: 8;
+  --sizes-4: 16;
+  --sizes-8: 32;
   --color-black: #000000;
   --color-white: #ffffff;
+  --color-purple: #971be3;
   --color-gray-100: #c1c1c4;
   --color-gray-200: #dedede;
   --color-gray-500: #847c7c;
